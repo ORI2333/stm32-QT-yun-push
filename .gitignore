@@ -1,0 +1,21 @@
+# IDE / temp
+.vscode/
+out.txt
+
+# Python cache
+**/__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Host local secrets/runtime
+host/.env
+host/.dashboard_access
+
+# Host build outputs (including host/build/release_pack/dist requested by user)
+host/build/
+host/dist/
+
+# Optional binary/intermediate (uncomment if needed)
+# keil/Objects/
+# keil/*.uvgui.*

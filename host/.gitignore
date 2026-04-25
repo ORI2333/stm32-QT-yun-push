@@ -1,0 +1,16 @@
+# Byte-compiled / cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Local runtime/config secrets
+.env
+.dashboard_access
+
+# Build artifacts
+build/
+dist/
+
+# Keep docs and source only
+!README_EXE_使用说明.md

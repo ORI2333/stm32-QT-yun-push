@@ -1,0 +1,3 @@
+# Optional AMQP service-subscription dependency.
+# On Windows + Python 3.12 this package may require C++ build tools.
+python-qpid-proton==0.39.0
