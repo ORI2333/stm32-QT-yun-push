@@ -11,6 +11,7 @@ out.txt
 # Host local secrets/runtime
 host/.env
 host/.dashboard_access
+host/.git_host_backup/
 
 # Host build outputs (including host/build/release_pack/dist requested by user)
 host/build/
